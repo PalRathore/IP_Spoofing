@@ -292,7 +292,7 @@ Confirm that:
 
 - Implement per-source-IP connection state tracking to detect targeted spoofing against specific hosts
 - Add statistical anomaly detection (e.g., sliding window variance analysis) alongside the threshold rule
-- Extend the analyzer to parse UDP packets and detect reflection patterns via source/destination IP frequency analysis
+- Extend the analyzer to parse the UDP packets and detect reflection patterns via source/destination IP frequency analysis
 - Integrate real-time visualization using Grafana with InfluxDB for continuous traffic monitoring
 - Implement automated alerting (email or webhook) when spoofing thresholds are breached
 - Add support for PCAP file analysis to enable offline forensic investigation of captured traffic
