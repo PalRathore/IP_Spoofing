@@ -224,6 +224,6 @@ This experiment combines normal and spoofed traffic to verify that the analyzer 
 
 ## Stopping Services
 
-- **Analyzer / Server / Reflector:** Press `Ctrl+C` in the respective terminal
-- **Spoofing script:** Terminates automatically after sending all 2000 packets
-- **Reflection script:** Runs in a loop; press `Ctrl+C` to stop
+- **Analyzer / Server / Reflector:** Press `Ctrl+C` in the respective terminal.
+- **Spoofing script:** Terminates automatically after sending all 2000 packets.
+- **Reflection script:** Runs in a loop; press `Ctrl+C` to stop.
